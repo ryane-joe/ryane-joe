@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A Universal(win) passwords/tkn stealer<br>👯 I’m looking to collaborate on any Python cybersecurity/hacking projects<br>🤝 I’m looking for help with Servers, post/get requests(for sending commands to backdoors, etc)<br>🌱 I’m currently learning to work with Post/Get requests, C, and other cybersecurity-related innovations<br>💬 Ask me about Python,hacking, Custom tools<br>⚡ Fun fact, I've surprisingly never written a hello world program
+🔭 I’m currently working on A Universal(win) passwords/tkn stealer<br>👯 I’m looking to collaborate on any Python cybersecurity/hacking projects<br>🤝 I’m looking for help with Servers, post/get requests(for sending commands to backdoors, etc)<br>🌱 I’m currently learning to work with Post/Get requests, Java , and other cybersecurity-related innovations<br>💬 Ask me about Python,hacking, Custom tools<br>⚡ Fun fact, I've surprisingly never written a hello world program
 
 
 ## 🌐 Socials:
