@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ctfs, more cybsec stuff<br>👯 I’m looking to collaborate on any Python cybersecurity/hacking projects<br>🤝 I’m looking for help with Servers, malware development(for sending commands to backdoors, etc)<br>🌱 I’m currently learning Cybersecurity, C, Networking<br>💬 Ask me about Python,hacking, <br>⚡ Fun fact, I've surprisingly never written a hello world program
+🔭 I’m currently working on Frontend, more cybsec stuff<br>👯 I’m looking to collaborate on any CTFs, UI/UX projects, Python projects<br>🤝 I’m looking for help with JS,Cybesecurity growth<br>🌱 I’m currently learning Cybersecurity, C,JS, Networking<br>💬 Ask me about Python,hacking, <br>⚡ Fun fact, I've surprisingly never written a hello world program
 
 
 ## 🌐 Socials:
@@ -12,20 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryane-joe&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryane-joe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ryanejoe)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ryane-joe&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ryane-joe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RyaneJoe) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
